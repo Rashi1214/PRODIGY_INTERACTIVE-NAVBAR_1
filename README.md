@@ -1,7 +1,7 @@
 # Interactive Navigation Menu
 
 ## 🔗 Live Demo
-https://rashi1214.github.io/PRODIGY_TrackCode_TaskNumber
+https://rashi1214.github.io/PRODIGY_INTERACTIVE-NAVBAR_1/
 
 ## 📌 Description
 This project is a responsive and interactive navigation menu built using HTML, CSS, and JavaScript. The navigation bar remains fixed at the top and changes style when the user scrolls or hovers over menu items.
