@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* Navbar */
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: transparent;
+    transition: 0.4s;
+    padding: 15px 0;
+}
+
+/* Menu */
+#navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar ul li {
+    margin: 0 20px;
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    color: turquoise;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+/* Hover Effect */
+#navbar ul li a:hover {
+    color: yellow;
+    transform: scale(1.1);
+}
+
+/* Scroll Effect Class */
+.scrolled {
+    background: black !important;
+}
+
+/* Content for scrolling */
+.content {
+    height: 2000px;
+    padding-top: 100px;
+    text-align: center;
+}
